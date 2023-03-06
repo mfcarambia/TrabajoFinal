@@ -1,0 +1,72 @@
+th{
+    font-weight: bold;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+table{
+    border-color: white;
+    color: white;
+    
+}
+td{
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+li{
+    padding: 1px;
+    
+}
+a{
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+div{
+    
+}
+
+h2,p,h3{
+    color: black;
+}
+
+footer{
+    padding: 5px;
+    height: auto;
+    border-style: ridge;
+    border-color: rgb(73, 73, 73);
+}
+
+p{
+    font-style:oblique;
+    font-size: 13px;
+    color: black;
+}
+
+form{
+    background-color: white;
+    border-radius: 5px;
+}
+
+
+.box {
+    width: 150px; height: 100px; border-radius: 5px;
+    background-color: black(255, 255, 255); padding: 1em;
+    float:left;
+    margin-top: 20px;
+    margin-left: 20px;
+    }
+
+    img{
+        border-radius: 5px;
+    }
+
+
+    body {
+        background-color: rgba(33,37,41,255);
+        width: 95%;
+        max-width: 1600px; margin: 0 auto;
+        font: .9em/1.2 Arial, Helvetica, sans-serif
+        }
